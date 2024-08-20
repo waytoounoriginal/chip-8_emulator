@@ -9,7 +9,7 @@ Just use the make file like this: `make all`.
 `chip-8-emulator <file_path_to_the_ROM>`
 
 ## Prerequisites
-* SDL-2 - already comes included in the `libs` and `includes` folders.\
+* SDL-2 - already comes included in the `libs` and `includes` folders.
 
 ## Compatibility
 This was only tested on Windows. Might not work on Unix-based systems.
